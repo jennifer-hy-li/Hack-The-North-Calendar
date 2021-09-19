@@ -1,13 +1,6 @@
-# `min-react`
-Because `create-react-app` has way too much extra boilerplate
-
 ## Contents
 ```
 src
-├── components      # all React components
-│   ├── Clock.js    # clock that ticks once a second (useState and useEffect example)
-│   ├── Footer.js
-│   └── Header.js
 ├── App.js          # main React app
 ├── index.css       # root-level styling
 └── index.js        # React entrypoint (where React gets inserted into the page)
