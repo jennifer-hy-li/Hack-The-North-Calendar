@@ -1,3 +1,13 @@
+## Downloading Steps
+1. download vscode
+2. have node.js installed
+3. open a new file
+4. clone the github into your local machine
+    a. do this by typing "git clone https://github.com/jennifer-hy-li/Hack-The-North-Calendar.git" into the terminal
+    b. get into the app.js folder by typing "cd hack-the-north-calendar" into the terminal
+    c. "npm install" into terminal
+5. "npm run start" into the terminal. this will open a new tab in your browser of the webpage
+    
 ## Contents
 ```
 src
